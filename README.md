@@ -1,15 +1,35 @@
-### Olá, eu sou o Jhon. 👋
+# Olá, tudo bem? Eu sou o Jhon. 👋
 
-<div style="display: flex; justify-content: space-between">
-<div>
 - Sou um estudante de desenvolvimento web na [TRYBE](https://www.betrybe.com/)
-- Sou extremamente curioso e apaixonado por aprender, por isso vivo descobrindo coisas novas nesse enorme mundo do desenvolvimento e tecnologia.
+- Acredito que tudo pode ser resolvido com uma boa conversa.
+- Sou extremamente curioso, e por isso sempre aprendendo coisas novas..
+
+<br/>
+
+## Você pode me encontrar por aqui:
+
+[<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/>](https://www.linkedin.com/in/jhon-santana/)
+
+<br/>
+
+## Aqui está o que ando fazendo:
+
+<div align="center" >
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=jhonsstn&show_icons=true&theme=radical">
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonsstn&layout=compact&theme=radical">
 </div>
 
-<div style="display: flex; flex-direction: column; align-self: center">
-  <img  src='https://github-readme-stats.vercel.app/api?username=jhonsstn&show_icons=true&theme=radical'>
-  <img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=jhonsstn&layout=compact&theme=radical)'>
-</div>
+<br/>
+
+## Posso te ajudar com:
+
+<div >
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 </div>
 
 <!--
