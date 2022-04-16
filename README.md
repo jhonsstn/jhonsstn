@@ -2,7 +2,7 @@
 
 - Sou um estudante de desenvolvimento web na [TRYBE](https://www.betrybe.com/)
 - Acredito que tudo pode ser resolvido com uma boa conversa.
-- Sou extremamente curioso, e por isso sempre aprendendo coisas novas..
+- Sou extremamente curioso, e por isso estou sempre em busca de aprender coisas novas..
 
 <br/>
 
