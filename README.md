@@ -1,10 +1,9 @@
 ### Olá, eu sou o Jhon. 👋
 
-<div style="display: flex; justify-content: space-between">
-<div>
+
 - Sou um estudante de desenvolvimento web na [TRYBE](https://www.betrybe.com/)
 - Sou extremamente curioso e apaixonado por aprender, por isso vivo descobrindo coisas novas nesse enorme mundo do desenvolvimento e tecnologia.
-</div>
+
 
 <div style="display: flex; flex-direction: column; align-self: center">
   <img  src='https://github-readme-stats.vercel.app/api?username=jhonsstn&show_icons=true&theme=radical'>
