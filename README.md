@@ -8,7 +8,7 @@
 
 ## Você pode me encontrar por aqui:
 
-[<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/>](https://www.linkedin.com/in/jhon-santana/)
+[<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/jhon-santana/)
 
 <br/>
 
