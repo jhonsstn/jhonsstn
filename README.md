@@ -15,8 +15,9 @@
 ## Aqui está o que ando fazendo:
 
 <div align="center" >
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=jhonsstn&show_icons=true&theme=radical">
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonsstn&layout=compact&theme=radical">
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=jhonsstn&show_icons=true&theme=radical">
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonsstn&layout=compact&theme=radical">
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </div>
 
 <br/>
