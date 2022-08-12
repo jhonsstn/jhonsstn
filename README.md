@@ -1,8 +1,8 @@
 # Olá, tudo bem? Eu sou o Jhon. 👋
 
-- Sou um desenvolvedor Full Stack com foco de estudo na area de BackEnd.
+- Sou um desenvolvedor Full Stack com foco de interesse na area Back-End.
 - Acredito que tudo pode ser resolvido com uma boa conversa.
-- Sou extremamente curioso, e por isso estou sempre em busca de aprender coisas novas..
+- Sou extremamente curioso, e por isso estou sempre aprendendo coisas novas.
 
 <br/>
 
