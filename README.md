@@ -19,7 +19,7 @@
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /></a>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" /></a>
-  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=Insomnia&logoColor=white" />]</a>
+  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=Insomnia&logoColor=white" /></a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" /></a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /></a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white" /></a>
@@ -38,7 +38,8 @@
 
 ## Você pode me encontrar por aqui:
 
-[<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/jhonsstn/)
+<a href="https://www.linkedin.com/in/jhonsstn/" target="_blank" rel="noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
+<a href="mailto:jhonsstn@gmail.com" target="_blank" rel="noreferrer"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
 
 <br/>
 
