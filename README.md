@@ -32,7 +32,7 @@
   <a href="https://eslint.org/" rel="noreferrer"><img alt="ESLint" src="https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white" /></a>
   <a href="https://www.mongodb.com/" rel="noreferrer"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></a>
   <a href="https://sequelize.org/" rel="noreferrer"><img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white" /></a>
-  <a href="[https://sequelize.org/](https://styled-components.com/)" rel="noreferrer"><img alt="Styled Components" src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white" /></a>
+  <a href="https://styled-components.com/" rel="noreferrer"><img alt="Styled Components" src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white" /></a>
 </div>
 
 <br/>
