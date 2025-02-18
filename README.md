@@ -37,10 +37,6 @@
 
 <br/>
 
-## Você pode me encontrar por aqui:
-
-<a href="https://www.linkedin.com/in/jhonsstn/" target="_blank" rel="noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
-<a href="mailto:jhonsstn@gmail.com" target="_blank" rel="noreferrer"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
 
 <br/>
 
